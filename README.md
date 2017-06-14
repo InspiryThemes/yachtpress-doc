@@ -1,2 +1,2 @@
-# yachtpress-doc
+# YachtPress Documentation
 Documentation for YachtPress Theme
