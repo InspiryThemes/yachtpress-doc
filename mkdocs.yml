@@ -1,0 +1,41 @@
+# Project information
+site_name: YachtPress
+site_description: Documentation for YachtPress Theme
+site_author: Inspiry Themes
+site_url: https://inspirythemes.github.io/yachtpress-docs
+
+# Theme
+theme: material
+
+# Options
+extra:
+  palette:
+    primary: 'Blue'
+    accent: 'Deep Orange'
+  font:
+    text: 'Lato'
+
+# Extensions
+markdown_extensions:
+    - admonition
+    - codehilite(guess_lang=false)
+    - toc(permalink=true)
+    - meta
+    - footnotes
+#    - pymdownx.arithmatex
+#    - pymdownx.betterem(smart_enable=all)
+#    - pymdownx.caret
+#    - pymdownx.critic
+#    - pymdownx.emoji:
+#        emoji_generator: !!python/name:pymdownx.emoji.to_svg
+#    - pymdownx.inlinehilite
+#    - pymdownx.magiclink
+#    - pymdownx.mark
+#    - pymdownx.smartsymbols
+#    - pymdownx.superfences
+#    - pymdownx.tasklist(custom_checkbox=true)
+#    - pymdownx.tilde
+
+# Page tree
+pages:
+#    - Home: index.md
