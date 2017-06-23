@@ -42,8 +42,8 @@ markdown_extensions:
 pages:
   - Introduction: index.md
   - Basic Setup: basic-setup.md
-  - Theme Settings: theme-settings.md
-  - Pages and Templates: pages-and-templates.md
-  - Adding Content: adding-content.md
+#  - Theme Settings: theme-settings.md
+#  - Pages and Templates: pages-and-templates.md
+#  - Adding Content: adding-content.md
   - Shortcodes: shortcodes.md
-  - How to: how-to.md
+#  - How to: how-to.md
