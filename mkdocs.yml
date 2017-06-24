@@ -20,7 +20,7 @@ extra_css:
 # Extensions
 markdown_extensions:
   - admonition
-  - codehilite(guess_lang=false)
+  - codehilite(guess_lang=true,linenums=true)
   - toc(permalink=true)
   - meta
   - footnotes
