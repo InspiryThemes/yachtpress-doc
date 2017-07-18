@@ -12,6 +12,18 @@
     margin-bottom: 20px;
 }
 
+.md-typeset ol li ol,
+.md-typeset ol li ul,
+.md-typeset ul li ol,
+.md-typeset ul li ul {
+    margin-left: 20px;
+}
+
+.md-typeset ol ol,
+.md-typeset ul ol {
+    list-style-type: inherit;
+}
+
 .md-typeset ol li,
 .md-typeset ul li {
     margin-left: 0;
@@ -41,12 +53,14 @@
     font-weight: 700;
 }
 
-.section-separator {
+hr,
+.md-typeset hr{
     margin-top: 50px;
     margin-bottom: 30px;
     width: 100%;
     height: 2px;
     background: #e5e5e5;
+    border: none;
 }
 
 .start-gold {
