@@ -16,7 +16,7 @@ Please visit <a href="https://support.inspirythemes.com/knowledgebase/how-to-get
 
 If you want to update the theme automatically, you can consult <a href="https://support.inspirythemes.com/knowledgebase/update-theme-using-envato-wordpress-toolkit/" target="_blank">this knowledge base article</a> or for manual theme update, you can consult <a href="https://support.inspirythemes.com/knowledgebase/better-way-to-update-wordpress-theme/" target="_blank">this knowledge base article</a>.
 
-<p><strong>If you like this theme, please support us by rating this theme with 5 stars <a target="_blank" href="img/misc/how-to-rate.png">( How to rate? )</a></strong>
+<p><strong>If you like this theme, please support us by rating this theme with 5 stars <a target="_blank" href="images/misc/how-to-rate.png">( How to rate? )</a></strong>
     <i class="start-gold fa fa-star"></i>
     <i class="start-gold fa fa-star"></i>
     <i class="start-gold fa fa-star"></i>

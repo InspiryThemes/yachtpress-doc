@@ -3,14 +3,15 @@
 ## Buttons
 
 !!! info "Info"
-    You can enter following attributes in button shortcode.
-<strong>link</strong> : URL you want to used for the button
-<br/><strong>target</strong> : _blank | _self | _parent | _top
-<br/><strong>type</strong> : info | success | warning | danger | Leave empty for default style.
-<br/><strong>size</strong> : sm | lg | Leave empty for default style.
-  
+    You can enter following attributes in button shortcode.<br/>
+    <strong>link</strong> : URL you want to used for the button<br/>
+    <strong>target</strong> : _blank | _self | _parent | _top<br/>
+    <strong>type</strong> : info | success | warning | danger | Leave empty for default style.<br/>
+    <strong>size</strong> : sm | lg | Leave empty for default style.
+<p></p>
+
     [inspiry_button link="your_link_here"]Button[/inspiry_button]
-    
+
     [inspiry_button link="your_link_here" type="info"]Button[/inspiry_button]
     
     [inspiry_button link="your_link_here" type="success"]Button[/inspiry_button]
@@ -19,9 +20,9 @@
     
     [inspiry_button link="your_link_here" type="danger"]Button[/inspiry_button]
     
-<img src="../img/misc/buttons.png" alt="">
+<img src="../images/misc/buttons.png" alt="">
     
-<div class="section-separator"></div>
+<hr>
 
 ## Lists
 
@@ -36,7 +37,7 @@
     </ul>
     [/inspiry_list]
     
-<img src="../img/misc/list-1.png" alt="">
+<img src="../images/misc/list-1.png" alt="">
     
 ### Arrow List Style 
     
@@ -49,9 +50,9 @@
      </ul>
     [/inspiry_list]
 
-<img src="../img/misc/list-2.png" alt="">
+<img src="../images/misc/list-2.png" alt="">
 
-<div class="section-separator"></div>
+<hr>
 
 ## Columns
 
@@ -61,14 +62,14 @@
     [single_column]This is One Half Column[/single_column]
     [/columns]
 
-### 1/2 Columns
+### Two Columns
 
     [columns]
     [one_half]This is One Half Column[/one_half]
     [one_half]This is One Half Column[/one_half]
     [/columns]
 
-### 1/3 Columns
+### Three Columns
 
     [columns]
     [one_third]This is One Third Column[/one_third]
@@ -76,7 +77,7 @@
     [one_third]This is One Third Column[/one_third]
     [/columns]
 
-### 1/4 Columns
+### Four Columns
 
     [columns]
     [one_fourth]This is One Fourth Column[/one_fourth]
@@ -85,7 +86,7 @@
     [one_fourth]This is One Fourth Column[/one_fourth]
     [/columns]
 
-### 1/6 Columns
+### Six Columns
 
     [columns]
     [one_sixth]This is One Sixth Column[/one_sixth]
